@@ -11,6 +11,7 @@ import java.net.UnknownHostException;
         * 2.利用openStream()获取InputStream类的对象
         * 3通过InputStream对象读取文件内容
  */
+
 public class Test2 {
     public static void main(String[] args){
         String urlName="http://www.baidu.com";
